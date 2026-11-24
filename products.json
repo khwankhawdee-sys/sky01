@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gel-fresh-30",
+    "name": "เจลอาบน้ำ Fresh เล็ก",
+    "mood": "fresh",
+    "type": "gel",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/fresh.jpg",
+    "description": "เจลอาบน้ำกลิ่น Fresh ขนาดพกพา สดชื่นสบายตัว เหมาะกับการเดินทางและลองใช้ครั้งแรก"
+  },
+  {
+    "id": "gel-fresh-100",
+    "name": "เจลอาบน้ำ Fresh ใหญ่",
+    "mood": "fresh",
+    "type": "gel",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/fresh.jpg",
+    "description": "เจลอาบน้ำกลิ่น Fresh ขนาดใช้ประจำ ให้ความรู้สึกสะอาดสดชื่นทุกครั้งที่อาบน้ำ"
+  },
+  {
+    "id": "gel-sweet-30",
+    "name": "เจลอาบน้ำ Sweet เล็ก",
+    "mood": "sweet",
+    "type": "gel",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/sweet.jpg",
+    "description": "เจลอาบน้ำกลิ่น Sweet ขนาดพกพา หอมนุ่มละมุน เหมาะกับการเดินทางและลองใช้ครั้งแรก"
+  },
+  {
+    "id": "gel-sweet-100",
+    "name": "เจลอาบน้ำ Sweet ใหญ่",
+    "mood": "sweet",
+    "type": "gel",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/sweet.jpg",
+    "description": "เจลอาบน้ำกลิ่น Sweet ขนาดใช้ประจำ หอมนุ่มละมุน ให้ช่วงเวลาอาบน้ำผ่อนคลายขึ้น"
+  },
+  {
+    "id": "soap-fresh",
+    "name": "สบู่ก้อน Fresh",
+    "mood": "fresh",
+    "type": "bar",
+    "size": "",
+    "price": 149,
+    "image": "images/fresh.jpg",
+    "description": "สบู่ก้อนกลิ่น Fresh สะอาด สดชื่น ใช้ได้ทุกวัน"
+  },
+  {
+    "id": "soap-sweet",
+    "name": "สบู่ก้อน Sweet",
+    "mood": "sweet",
+    "type": "bar",
+    "size": "",
+    "price": 149,
+    "image": "images/sweet.jpg",
+    "description": "สบู่ก้อนกลิ่น Sweet หอมนุ่มละมุน ใช้ได้ทุกวัน"
+  }
+]
